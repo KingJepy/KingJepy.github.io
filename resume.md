@@ -5,7 +5,7 @@ permalink: /resume/
 
 # Resume
 
-[Download Resume (PDF)](assets/resume.pdf)
+[Download Resume (PDF)](Resume-%202025.pdf)
 
 ![Resume Screenshot](Screenshot%202025-09-17%20161553.png)
 
