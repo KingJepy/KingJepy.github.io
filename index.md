@@ -4,7 +4,7 @@ title: Home
 
 # Joseph Moslander
 
-![Brand image](assets/images/brand1.jpg)
+![Brand image](computer_geek.png)
 
 ## About Me
 With six years of experience in property management, I developed leadership and project management skills. I recently transitioned into technology, gaining new skills in JavaScript and React through LaunchCode. 
