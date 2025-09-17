@@ -7,7 +7,7 @@ permalink: /resume/
 
 [Download Resume (PDF)](Resume-%202025.pdf)
 
-![Resume Screenshot](Screenshot%202025-09-17%20161553.png)
+![Resume Screenshot](https://github.com/KingJepy/KingJepy.github.io/blob/ed933b3efcae9d1ae54b8c22be28b2896678a911/Screenshot%202025-09-17%20161553.png)
 
 ## Summary
 With six years of experience in property management, I developed leadership and project management skills. Since transitioning, I gained technical skills in JavaScript and React. My goal is to contribute to a full-stack development team and continue growing.
