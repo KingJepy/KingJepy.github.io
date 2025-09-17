@@ -12,4 +12,4 @@ Built the shirt preview feature and an order form to improve the ordering proces
 ![TeeForge Screenshot](teeforge%20sc.png)
 
 **Tech Stack**: Java, JavaScript, React  
-**Link**: [View on GitHub](https://github.com/KingJepy/TeeForge)
+**Link**: [View on GitHub](https://github.com/KingJepy/TeeForger-Unit-One-Project)
